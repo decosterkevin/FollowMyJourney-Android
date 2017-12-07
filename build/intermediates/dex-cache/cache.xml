@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Decoster\SkyDrive\Perso\AndroidStudioProject\KeepUp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Decoster\SkyDrive\Perso\AndroidStudioProject\KeepUp\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-e53a8015af097703e5a3e0cb95d2a97ef84a4484.jar" />
+    </item>
+    <item
+        jar="C:\Users\Decoster\SkyDrive\Perso\AndroidStudioProject\KeepUp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Decoster\SkyDrive\Perso\AndroidStudioProject\KeepUp\app\build\intermediates\pre-dexed\debug\classes-97c6a6f1c4bc5ed764fe47c3a009757753bd009e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Decoster\SkyDrive\Perso\AndroidStudioProject\KeepUp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Decoster\SkyDrive\Perso\AndroidStudioProject\KeepUp\app\build\intermediates\pre-dexed\debug\classes-e91188781cb99990c8d73e7eb6a24407e119aaf5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Decoster\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Decoster\SkyDrive\Perso\AndroidStudioProject\KeepUp\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-719d724a645bbd1e7fa05ea359163faebc6e283d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Decoster.KEVIN-PC\OneDrive\Perso\AndroidStudioProject\KeepUp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Decoster.KEVIN-PC\OneDrive\Perso\AndroidStudioProject\KeepUp\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-f249810554d942ddcfca6e00139e775f2f19a9f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Decoster.KEVIN-PC\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\Decoster.KEVIN-PC\OneDrive\Perso\AndroidStudioProject\KeepUp\app\build\intermediates\pre-dexed\debug\library-1.0.19-46102a2d29cc497c632c198bc0f6546f38515a7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Decoster.KEVIN-PC\OneDrive\Perso\AndroidStudioProject\KeepUp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Decoster.KEVIN-PC\OneDrive\Perso\AndroidStudioProject\KeepUp\app\build\intermediates\pre-dexed\debug\classes-bb147c90dfef19a5863978158e9a62b4eba45bd2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Decoster.KEVIN-PC\OneDrive\Perso\AndroidStudioProject\KeepUp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Decoster.KEVIN-PC\OneDrive\Perso\AndroidStudioProject\KeepUp\app\build\intermediates\pre-dexed\debug\classes-63876701ef9dc79d7152a0844329b5cd7f34ee95.jar" />
+    </item>
+
+</items>

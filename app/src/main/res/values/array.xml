@@ -1,0 +1,33 @@
+<resources>
+    <string-array name="listArrayPeriod">
+        <item>1 minute</item>
+        <item>1 hours</item>
+        <item>1 day</item>
+    </string-array>
+
+    <string-array name="listValuesPeriod">
+        <item>60000</item>
+        <item>3600000</item>
+        <item>86400000</item>
+    </string-array>
+
+    <string-array name="listArrayDistance">
+        <item>10m</item>
+        <item>100m</item>
+        <item>1km</item>
+        <item>10km</item>
+    </string-array>
+
+    <string-array name="listValuesDistance">
+        <item>10</item>
+        <item>100</item>
+        <item>1000</item>
+        <item>10000</item>
+    </string-array>
+    <string-array name="listModeJourney">
+        <item>Bike</item>
+        <item>Walk</item>
+        <item>Car</item>
+        <item>other</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kevin/Documents/Code/workspace_android/KeepUp/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/kevin/.android/build-cache/48e15b6fdcdad662d9ac19ed81ac1d7e4294677f/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/kevin/Documents/Code/workspace_android/KeepUp/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/kevin/.android/build-cache/48e15b6fdcdad662d9ac19ed81ac1d7e4294677f/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

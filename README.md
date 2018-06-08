@@ -1,4 +1,4 @@
-# KeepUpAndroid (Android appliction of FollowMyJourney)
+# Android appliction of FollowMyJourney
 
 The source code for the Android application used by FollowMyJourney. 
 
